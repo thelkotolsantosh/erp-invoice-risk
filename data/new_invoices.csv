@@ -1,0 +1,4 @@
+invoice_id,amount_inr,payment_terms_days,previous_late_payments
+NEW-001,5000,15,0
+NEW-002,85000,60,6
+NEW-003,22000,30,2
